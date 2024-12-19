@@ -33,7 +33,7 @@ We are a group of passionate students from ASCOL committed to:
    - Join our Discord/Slack (link to be added)
 
 2. **First-Time Contributors**
-   - Check out our [CONTRIBUTERS.md](contributers.md) guide
+   - Check out our [CONTRIBUTERS.md](./CONTRIBUTERS.md) guide
    - Look for "good first issue" labels in our repositories
    - Attend our weekly tech meetups
 
@@ -77,7 +77,7 @@ We welcome contributions from:
 
 ## Code of Conduct 📜
 
-Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to understand our community standards and expectations.
+Please read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) to understand our community standards and expectations.
 
 ## Connect With Us 🌐
 
