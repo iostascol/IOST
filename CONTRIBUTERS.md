@@ -30,8 +30,12 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - *Batch/Year*: Senior Software Developer (7+ Years Experience)
 - *Joined*: December 2024
 
-
-
+### **Dipesh B C**
+- **Role/Contribution**: Maintainer
+- **GitHub**: [Dipesh B C](https://github.com/bcdipesh)
+- **LinkedIn**: [Dipesh B C](https://www.linkedin.com/in/dipeshbc)
+- **Batch/Year**: Software Engineer (5+ Years Experience)
+- **Joined**: December 2024
 
 
 ---
@@ -45,4 +49,3 @@ To add yourself as a contributor, please follow these steps:
 Thank you for being a part of this community, and we look forward to more contributions!
 
 ---
-

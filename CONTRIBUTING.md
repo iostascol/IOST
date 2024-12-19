@@ -94,10 +94,7 @@ We welcome contributions in various forms:
 - Keep functions small and focused
 
 ### Commit Message Guidelines
-- Use present tense
-- Use imperative mood
-- Be concise and descriptive
-- Example: "Add user authentication module"
+- Please follow the [commit message format](https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format) guidelines provided by the Angular team at Google. 
 
 ## Code Review Process
 
@@ -123,7 +120,7 @@ We welcome contributions in various forms:
 
 ## Code of Conduct
 
-Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before contributing.
+Please read our [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
 
 ## Attribution
 
