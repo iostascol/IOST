@@ -37,6 +37,11 @@ We would like to express our heartfelt thanks to all the amazing contributors wh
 - **Batch/Year**: Software Engineer (5+ Years Experience)
 - **Joined**: December 2024
 
+### **Bishal Adhikari**
+- **Role/Contribution**:Maintainer
+- **GitHub**: [Bishal Adhikari](https://github.com/bishal2231)
+- **Batch/Year**: BIT 3rd Semester
+- **Joined**: December 2024
 
 ---
 
